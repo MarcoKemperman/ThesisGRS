@@ -1,4 +1,4 @@
- Author: Joshua (Jay) Wimhurst
+# Author: Joshua (Jay) Wimhurst
 # Date Created: 10/10/2023
 # Date Last Edited: 5/7/2025
 
